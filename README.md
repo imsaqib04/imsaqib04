@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saqib</h1>
 <h3 align="center">Backend developer</h3>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **saqibansari2011@gmail.com**
 
