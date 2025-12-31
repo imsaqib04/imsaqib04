@@ -1,19 +1,92 @@
 <h1 align="center">Hi 👋, I'm Saqib</h1>
-<h3 align="center">Backend developer</h3>
+<h3 align="center">Backend Developer | Django • Django REST • Spring Boot</h3>
 
-- 🌱 I’m currently learning **python**
-
-- 📫 How to reach me **saqibansari2011@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/imsaqib04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imsaqib04" height="30" width="40" /></a>
-<a href="https://instagram.com/imsaqib_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imsaqib_._" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imsaqib04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imsaqib04" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imsaqib04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imsaqib04" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imsaqib04&label=Profile%20views&color=0e75b6&style=flat" alt="imsaqib04" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsaqib04&show_icons=true&locale=en&layout=compact" alt="imsaqib04" /></p>
+## 👨‍💻 About Me
+
+- 🚀 Backend-focused developer with strong fundamentals in **Django, DRF & Spring Boot**
+- 🔐 Experienced in building **REST APIs, JWT Authentication & role-based systems**
+- 🧠 Good understanding of **databases, ORM, and backend architecture**
+- 🛠️ I focus on **clean code, scalability, and real-world problem solving**
+- ♟️ Fun fact: I enjoy logical problem-solving & chess
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: **saqibansari2011@gmail.com**
+- 💼 LinkedIn: *https://www.linkedin.com/in/imsaqib04/*
+- 🧑‍💻 GitHub: [https://github.com/imsaqib04](https://github.com/imsaqib04)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,django,spring,mysql,git,github,docker,postman" />
+</p>
+
+---
+
+## 🧩 Backend Skills Snapshot
+
+- 🔹 REST API Design & Development
+- 🔹 Authentication & Authorization (JWT, Sessions)
+- 🔹 Database Design (MySQL, PostgreSQL)
+- 🔹 ORM (Django ORM, JPA/Hibernate)
+- 🔹 Pagination, Filtering, Validation
+- 🔹 Microservice-ready backend structure
+- 🔹 Git & GitHub workflow
+
+---
+
+## 📌 Projects (Highlighted)
+
+### 🔹 Digital Marketplace (Django)
+- User authentication & authorization
+- Seller dashboard & product management
+- Razorpay payment integration
+- Invoice generation & purchase history
+- Clean REST-based backend architecture
+
+### 🔹 Train Booking System (Spring Boot – Microservices)
+- JWT-based authentication service
+- Train, Booking & User services
+- Inter-service communication (Feign)
+- Seat availability & booking status handling
+
+📌 **More projects available in repositories below** ⬇️  
+👉 [imsaqib04](https://github.com/imsaqib04)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsaqib04&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imsaqib04&theme=github-dark&hide_border=true" />
+</p>
+
+
+
+---
+
+## 🧠 Currently Focused On
+
+- 📦 Building scalable backend systems
+- 🔐 Advanced authentication & security
+- 🧪 Writing clean, production-ready APIs
+- 📚 Improving system design fundamentals
+
+---
+
+### ⚡ One Line That Defines Me
+> **“I don’t just learn backend — I build and ship it.”**
