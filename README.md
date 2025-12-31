@@ -2,57 +2,55 @@
 <h3 align="center">Backend Developer | Django • Django REST • Spring Boot</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imsaqib04&label=Profile%20views&color=0e75b6&style=flat" alt="imsaqib04" />
+  <img src="https://komarev.com/ghpvc/?username=imsaqib04&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Backend-focused developer with strong fundamentals in **Django, DRF & Spring Boot**
-- 🔐 Experienced in building **REST APIs, JWT Authentication & role-based systems**
-- 🧠 Good understanding of **databases, ORM, and backend architecture**
-- 🛠️ I focus on **clean code, scalability, and real-world problem solving**
-- ♟️ Fun fact: I enjoy logical problem-solving & chess
+- 🚀 Backend Developer focused on **scalable & secure systems**
+- 🔐 Experience with **REST APIs, JWT Authentication & Role-based access**
+- 🧠 Strong fundamentals in **Databases, ORM & Backend Architecture**
+- 🛠️ I prefer **clean code over shortcuts**
+- ♟️ Fun fact: I enjoy logical problem solving & chess
 
 ---
 
-## 📫 How to Reach Me
+## 🛠️ Languages and Tools
 
-- 📧 Email: **saqibansari2011@gmail.com**
-- 💼 LinkedIn: *https://www.linkedin.com/in/imsaqib04/*
-- 🧑‍💻 GitHub: [https://github.com/imsaqib04](https://github.com/imsaqib04)
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,django,spring,mysql,git,github,docker,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,django,spring,html,css,js,mysql,git,github,docker,postman" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsaqib04&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
 ---
 
 ## 🧩 Backend Skills Snapshot
 
-- 🔹 REST API Design & Development
-- 🔹 Authentication & Authorization (JWT, Sessions)
-- 🔹 Database Design (MySQL, PostgreSQL)
-- 🔹 ORM (Django ORM, JPA/Hibernate)
-- 🔹 Pagination, Filtering, Validation
-- 🔹 Microservice-ready backend structure
-- 🔹 Git & GitHub workflow
+- REST API Design & Development  
+- JWT Authentication & Authorization  
+- Database Design (MySQL, PostgreSQL)  
+- Django ORM & JPA/Hibernate  
+- Pagination, Filtering & Validation  
+- Microservice-ready architecture  
+- Git & GitHub workflows  
 
 ---
 
-## 📌 Projects (Highlighted)
+## 📌 Highlighted Projects
 
 ### 🔹 Digital Marketplace (Django)
-- User authentication & authorization
+- Authentication & authorization
 - Seller dashboard & product management
 - Razorpay payment integration
 - Invoice generation & purchase history
-- Clean REST-based backend architecture
 
 ### 🔹 Train Booking System (Spring Boot – Microservices)
 - JWT-based authentication service
@@ -60,31 +58,21 @@
 - Inter-service communication (Feign)
 - Seat availability & booking status handling
 
-📌 **More projects available in repositories below** ⬇️  
-👉 [imsaqib04](https://github.com/imsaqib04)
+📌 **More projects available below** ⬇️  
+👉 https://github.com/imsaqib04
 
 ---
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsaqib04&show_icons=true&theme=github_dark&hide_border=true" />
+  <a href="https://www.linkedin.com/in/imsaqib04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-imsaqib04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saqibansari2011@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saqibansari2011-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/imsaqib04">
+    <img src="https://img.shields.io/badge/GitHub-imsaqib04-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imsaqib04&theme=github-dark&hide_border=true" />
-</p>
-
-
-
----
-
-## 🧠 Currently Focused On
-
-- 📦 Building scalable backend systems
-- 🔐 Advanced authentication & security
-- 🧪 Writing clean, production-ready APIs
-- 📚 Improving system design fundamentals
 
 ---
 
