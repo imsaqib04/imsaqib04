@@ -2,76 +2,61 @@
 <h3 align="center">Backend Developer | Django • Django REST • Spring Boot</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imsaqib04&label=Profile%20Views&color=0e75b6&style=flat" />
+  Hi! I'm a <strong>6th Semester Student</strong> and a Backend Developer obsessed with building scalable, secure systems. I don't just write code; I design architectures that handle real-world loads. Currently, I'm deep-diving into <strong>Django DRF</strong> to build production-ready platforms.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/imsaqib04">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:saqibansari2011@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/imsaqib._.">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Backend Developer focused on **scalable & secure systems**
-- 🔐 Experience with **REST APIs, JWT Authentication & Role-based access**
-- 🧠 Strong fundamentals in **Databases, ORM & Backend Architecture**
-- 🛠️ I prefer **clean code over shortcuts**
-- ♟️ Fun fact: I enjoy logical problem solving & chess
+- 🚀 **Backend Architect:** I build high-performance, scalable systems that don't break under pressure.
+- 🔐 **Security First:** Expert in securing APIs with **JWT**, OAuth2, and complex Role-Based Access Control (RBAC).
+- 🧠 **Database Engineering:** I don't just query databases; I optimize schemas, indexing, and ORM queries for speed.
+- 🛠️ **Code Quality:** I believe in **Clean Architecture**. "It works" is not enough; it must be maintainable.
+- ♟️ **Offline Mode:** When I'm not debugging, I'm checkmating opponents in Chess ♟️ or solving LeetCode puzzles.
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,django,spring,html,css,js,mysql,git,github,docker,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsaqib04&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-
----
-
-## 🧩 Backend Skills Snapshot
-
-- REST API Design & Development  
-- JWT Authentication & Authorization  
-- Database Design (MySQL, PostgreSQL)  
-- Django ORM & JPA/Hibernate  
-- Pagination, Filtering & Validation  
-- Microservice-ready architecture  
-- Git & GitHub workflows  
-
----
-
-## 📌 Highlighted Projects
-
-### 🔹 Digital Marketplace (Django)
-- Authentication & authorization
-- Seller dashboard & product management
-- Razorpay payment integration
-- Invoice generation & purchase history
-
-### 🔹 Train Booking System (Spring Boot – Microservices)
-- JWT-based authentication service
-- Train, Booking & User services
-- Inter-service communication (Feign)
-- Seat availability & booking status handling
-
-📌 **More projects available below** ⬇️  
-👉 https://github.com/imsaqib04
-
----
+  <img src="https://github-readme-stats.vercel.app/api?username=imsaqib04&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/imsaqib04/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-imsaqib04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:saqibansari2011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saqibansari2011-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/imsaqib04">
-    <img src="https://img.shields.io/badge/GitHub-imsaqib04-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imsaqib04&theme=dark&hide_border=false" alt="Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsaqib04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
+</p>
+
+### 📉 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsaqib04&theme=react-dark" alt="Activity Graph" />
+</p>
+
+### 🏆 Profile Summary
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsaqib04&theme=dracula" alt="Profile Summary" />
 </p>
 
 ---
