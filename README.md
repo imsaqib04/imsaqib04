@@ -35,6 +35,16 @@
   <img src="https://skillicons.dev/icons?i=python,java,django,spring,html,css,js,mysql,git,github,docker,postman" />
 </p>
 
+### 📌 Featured Projects
+
+| 🚀 Project Name | 🛠️ Tech Stack | 📊 Status |
+| :--- | :--- | :--- |
+| **[Product Recommendation](https://github.com/imsaqib04/product_recommendation)**<br>_Smart AI-based engine for product suggestions_ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Active](https://img.shields.io/badge/✅_Active-Public-success) |
+| **[Watchmate](https://github.com/imsaqib04/Watchmate)**<br>_OTT Streaming Platform API_ | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) | ![Completed](https://img.shields.io/badge/🚀_Completed-V1.0-success) |
+| **[Micro-Services](https://github.com/imsaqib04/Micro-Services)**<br>_Scalable Quiz App Microservices Architecture_ | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Completed](https://img.shields.io/badge/🏆_Completed-Quiz_App-success) |
+| **[Digital Marketplace](https://github.com/imsaqib04/Digital-Marketplace)**<br>_Multi-vendor E-commerce w/ Payments_ | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2F55?style=flat-square&logo=razorpay&logoColor=white) | ![Active](https://img.shields.io/badge/✅_Active-Live_Soon-orange) |
+| **[DSA](https://github.com/imsaqib04/DSA)**<br>_Efficient Algorithms & LeetCode Solutions_ | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Algo](https://img.shields.io/badge/Algorithms-black?style=flat-square&logo=leetcode&logoColor=white) | ![Practice](https://img.shields.io/badge/🧠_Practice-Daily-lightgrey) |
+
 ---
 
 ### 📊 GitHub Stats
