@@ -3,7 +3,7 @@
 <h3 align="center">Backend Developer | Django • DRF • Spring Boot | Building Production Systems</h3>
 
 <p align="center">
-  <strong>6th Semester Student</strong> building scalable backend systems that handle real-world loads. 
+  <strong>B.Tech 4rth year Student</strong> building scalable backend systems that handle real-world loads. 
   <br/>
   I don't just write code—I architect, deploy, and scale it. 
   <br/>
