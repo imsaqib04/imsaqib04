@@ -178,10 +178,8 @@ Most portfolios show projects that "work locally." I show systems that are **liv
 
 ## 📚 Currently Learning
 
-- 🔍 System Design (designing for scale at 1M+ users)
-- 🤖 Machine Learning fundamentals
-- ☸️ Kubernetes & container orchestration
-- 📡 GraphQL API design and optimization
+- 🤖 Machine Learning
+- ☸️ IOS Development
 
 ---
 
